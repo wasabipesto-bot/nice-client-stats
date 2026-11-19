@@ -1,0 +1,13 @@
+__pycache__/
+site/out/
+harness/bins/
+harness/pybins/
+harness/shims/
+harness/results/
+harness/logs/
+harness/queue.db*
+harness/jobs.jsonl
+harness/new-commits.tsv
+harness/lanes.json
+harness/STOP
+harness/workers.pids
